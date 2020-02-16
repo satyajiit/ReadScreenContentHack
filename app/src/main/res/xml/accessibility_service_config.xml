@@ -1,5 +1,4 @@
 <accessibility-service
-    android:packageNames="com.example.android.myFirstApp, com.example.android.mySecondApp"
     android:accessibilityFeedbackType="feedbackGeneric"
     android:accessibilityEventTypes="typeWindowContentChanged|typeWindowStateChanged"
     android:notificationTimeout="0"
