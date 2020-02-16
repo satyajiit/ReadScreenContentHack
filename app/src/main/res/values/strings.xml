@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadScreenContentHack</string>
+    <string name="accessibility_service_label">Acc Satyajit</string>
+    <string name="accessibility_service_description">This app will help you with ... Just useful</string>
+</resources>
